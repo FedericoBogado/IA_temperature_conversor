@@ -15,6 +15,6 @@ Este proyecto se encuentra finalizado. Aunque puede que en un futuro lo agregue 
 ## 🖥 Tecnologias utilizadas
 
  - [🐍Python](https://www.python.org/)
- - [Numpy](https://numpy.org/)
- - [TensorFlow](https://www.tensorflow.org/learn?hl=es-419)
- - [Matplotlib](https://matplotlib.org/)
+   - [Numpy](https://numpy.org/)
+   - [TensorFlow](https://www.tensorflow.org/learn?hl=es-419)
+   - [Matplotlib](https://matplotlib.org/)
