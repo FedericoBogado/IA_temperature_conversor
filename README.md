@@ -14,7 +14,20 @@ Este proyecto se encuentra finalizado. Aunque puede que en un futuro lo agregue 
 
 ## 🖥 Tecnologias utilizadas
 
- - [🐍Python](https://www.python.org/)
-   - [Numpy](https://numpy.org/)
-   - [TensorFlow](https://www.tensorflow.org/learn?hl=es-419)
-   - [Matplotlib](https://matplotlib.org/)
+  <p align="left">
+   <a href="https://www.python.org/">
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" height="30" width="30">
+   </a>
+
+   <a href="https://www.tensorflow.org/learn?hl=es-419">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height=" 30" width="30">
+   </a>
+
+   <a href="https://numpy.org/">
+    <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPy" height=" 30" width="30">
+   </a>
+    
+   <a href="https://matplotlib.org/">
+    <img alt="Matplotlib" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" height="30" width="30">
+   </a>
+  </p>
